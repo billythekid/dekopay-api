@@ -1,5 +1,5 @@
 {
-  "name": "billythekid/dekopay",
+  "name": "billythekid/dekopay-api",
   "description": "PHP wrapper of the dekopay finance API",
   "type": "library",
   "keywords": ["dekopay", "finance", "pay4later", "close brothers", "retail finance"],

@@ -1,4 +1,4 @@
-# billythekid\dekopay
+# billythekid\dekopay-api
 
 PHP API client for integration with the dekopay API at www.dekopay.com.
 
