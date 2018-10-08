@@ -1,0 +1,32 @@
+{
+  "name": "billythekid/dekopay",
+  "description": "PHP wrapper of the dekopay finance API",
+  "type": "library",
+  "keywords": ["dekopay", "finance", "pay4later", "close brothers", "retail finance"],
+  "authors": [
+    {
+      "name": "Billy Fagan",
+      "email": "billy@billyfagan.co.uk",
+      "homepage": "https://billyfagan.co.uk",
+      "role": "Developer"
+    },
+    {
+      "name": "ideaspot",
+      "email": "info@ideaspot.pl",
+      "role": "Original works developer"
+    }
+  ],
+  "license": "GPL-3.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "billythekid\\dekopay\\": "src/",
+      "billythekid\\dekopayTests\\": "tests/"
+    }
+  },
+  "require": {
+    "ext-json": "*",
+    "ext-libxml": "*",
+    "ext-simplexml": "*",
+    "ext-curl": "*"
+  }
+}
